@@ -157,6 +157,6 @@ No known bugs at this time.
 Stanley Osagie - [Github](https://github.com/sagieramos)   
 Ugoh Emmanuel - [Github](https://github.com/CodedJay672)
 
-Second part of Airbnb: Joann Vuong
+Second part of Airbnb: Stanley and Ugoh
 ## License
 Public Domain. No copy write protection. 
