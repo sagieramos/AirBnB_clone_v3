@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 """
 Contains the class DBStorage
+Description:
+    stores class Objects in MySQL database
+    SQLAlchemy ORM is used to map python objects
+    into relational database tables
 """
 
 import models
