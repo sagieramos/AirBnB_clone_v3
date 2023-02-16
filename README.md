@@ -154,9 +154,11 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Stanley Osagie - [Github](https://github.com/sagieramos)   
-Ugoh Emmanuel - [Github](https://github.com/CodedJay672)
+Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
+Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Tobi Amoniyan - [Github](https://github.com/Oluwatoby8965) 
+Fashina Segun - [Github](https://github.com/Kingfash084412)
 
-Second part of Airbnb: Stanley and Ugoh
+Third part of Airbnb: Fashina Segun And Tobi Amoniyano
 ## License
 Public Domain. No copy write protection. 

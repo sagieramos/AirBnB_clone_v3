@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 """
 Contains the class DBStorage
-Description:
-    stores class Objects in MySQL database
-    SQLAlchemy ORM is used to map python objects
-    into relational database tables
-
 """
 
 import models
@@ -75,6 +70,19 @@ class DBStorage:
         sess_factory = sessionmaker(bind=self.__engine, expire_on_commit=False)
         Session = scoped_session(sess_factory)
         self.__session = Session
+
+    def get(self, cls, id):
+        """Retrieve object by class and id
+        """
+        if cls in classes.values():
+            return self.__session.query(cls).filter(cls.id == id).first()
+        else:
+            return None
+
+    def count(self, cls=None):
+        """Count number of objects in storage
+        """
+        return len(self.all(cls))
 
     def close(self):
         """call remove() method on the private session attribute"""
