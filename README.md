@@ -158,7 +158,7 @@ Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twit
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Tobi Amoniyan - [Github](https://github.com/Oluwatoby8965) 
 Fashina Segun - [Github](https://github.com/Kingfash084412)
-
+Stanley Osagie -[Github](https://github.com/sagieramos/)
 Third part of Airbnb: Fashina Segun And Tobi Amoniyano
 ## License
 Public Domain. No copy write protection. 
